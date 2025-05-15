@@ -21,7 +21,9 @@ A responsive, multi-page blog website built with HTML5, CSS3, and JavaScript.
 - GitHub Pages: Deployment
 
 ## Deployment
-Live URL: [Insert GitHub Pages URL here]
+```
+Live URL:https://plp-webtechnologies.github.io/feb-2025-final-project-and-deployment-amosomariba/
+```
 
 ## Setup Instructions
 1. Clone the repository: `git clone <repo-url>`
@@ -35,3 +37,4 @@ Live URL: [Insert GitHub Pages URL here]
 
 ## Author
 [Amos Omariba]
+
